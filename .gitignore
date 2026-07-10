@@ -1,0 +1,17 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+HonorificCarousel/bin/
+HonorificCarousel/obj/
+
+*.zip
+*.nupkg
+artifacts/
+release/
+Data/goat.png

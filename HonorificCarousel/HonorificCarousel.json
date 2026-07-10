@@ -1,0 +1,12 @@
+{
+  "Author": "Starlit Systems",
+  "Name": "Honorific Carousel",
+  "InternalName": "HonorificCarousel",
+  "Punchline": "Rotate your saved Honorific titles on a per-character timer.",
+  "Description": "Honorific Carousel rotates saved Honorific title presets for the current character through Honorific IPC. Configure per-character sequences, durations, looping, and enabled state with /honocar.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "honorific",
+    "carousel"
+  ]
+}

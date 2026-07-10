@@ -1,0 +1,23 @@
+[
+    {
+        "Author": "Starlit Systems",
+        "Name": "Honorific Carousel",
+        "InternalName": "HonorificCarousel",
+        "AssemblyVersion": "0.0.0.1",
+        "Punchline": "Rotate your saved Honorific titles on a per-character timer.",
+        "Description": "Honorific Carousel rotates saved Honorific title presets for the current character through Honorific IPC. It keeps Honorific as the source of truth for title text and styling while letting each configured character cycle through their own sequence.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/starlit-systems/HonorificCarousel",
+        "Tags": [
+            "honorific",
+            "carousel"
+        ],
+        "DalamudApiLevel": 15,
+        "LoadPriority": 0,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadLinkInstall": "https://github.com/starlit-systems/HonorificCarousel/releases/latest/download/HonorificCarousel.zip",
+        "DownloadLinkTesting": "https://github.com/starlit-systems/HonorificCarousel/releases/latest/download/HonorificCarousel.zip",
+        "DownloadLinkUpdate": "https://github.com/starlit-systems/HonorificCarousel/releases/latest/download/HonorificCarousel.zip"
+    }
+]
