@@ -16,9 +16,9 @@
         "LoadPriority": 0,
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/starlit-systems/HonorificCarousel/releases/latest/download/HonorificCarousel.zip",
-        "DownloadLinkTesting": "https://github.com/starlit-systems/HonorificCarousel/releases/latest/download/HonorificCarousel.zip",
-        "DownloadLinkUpdate": "https://github.com/starlit-systems/HonorificCarousel/releases/latest/download/HonorificCarousel.zip"
+        "DownloadLinkInstall": "https://github.com/starlit-systems/HonorificCarousel/releases/download/v0.0.0.1/HonorificCarousel.zip",
+        "DownloadLinkTesting": "https://github.com/starlit-systems/HonorificCarousel/releases/download/v0.0.0.1/HonorificCarousel.zip",
+        "DownloadLinkUpdate": "https://github.com/starlit-systems/HonorificCarousel/releases/download/v0.0.0.1/HonorificCarousel.zip"
     },
     {
         "Author": "Starlit Systems",
@@ -44,8 +44,8 @@
         "LoadPriority": 0,
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/starlit-systems/SubLedger/releases/latest/download/SubLedger.zip",
-        "DownloadLinkTesting": "https://github.com/starlit-systems/SubLedger/releases/latest/download/SubLedger.zip",
-        "DownloadLinkUpdate": "https://github.com/starlit-systems/SubLedger/releases/latest/download/SubLedger.zip"
+        "DownloadLinkInstall": "https://github.com/starlit-systems/SubLedger/releases/download/v0.5.1.0/SubLedger.zip",
+        "DownloadLinkTesting": "https://github.com/starlit-systems/SubLedger/releases/download/v0.5.1.0/SubLedger.zip",
+        "DownloadLinkUpdate": "https://github.com/starlit-systems/SubLedger/releases/download/v0.5.1.0/SubLedger.zip"
     }
 ]
