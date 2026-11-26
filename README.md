@@ -6,10 +6,10 @@ It does not render titles, edit Honorific settings, or manipulate nameplates dir
 
 ## Custom Plugin Repository
 
-After this repository has a published GitHub release, add this custom repository URL in Dalamud:
+Add the Starlit Systems repository URL in Dalamud. It lists every Starlit Systems plugin:
 
 ```text
-https://raw.githubusercontent.com/starlit-systems/HonorificCarousel/main/pluginmaster.json
+https://raw.githubusercontent.com/starlit-systems/DalamudPlugins/main/pluginmaster.json
 ```
 
 Friends installing from the custom repository must also have Honorific installed and configured, because Honorific Carousel only talks to Honorific through IPC.
